@@ -1,0 +1,84 @@
+body{
+    background-image: url('images/tree.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+    background-position:2px;
+}
+
+
+
+.nav-home{
+    background-color: green;
+    justify-content: center;
+    height: auto;
+}
+.kiash{
+    padding-top: 30px;
+    padding-left: 900px;
+    /* padding-right: 400px; */
+
+    
+}
+.link-bar{
+    padding-left: 600px;
+    padding-top: 300px;
+}
+.ul-bar{
+    width: 300px;
+}
+.foot-bar{
+    background-color: green;
+    height: 200px;
+    justify-content: center;
+     padding-top:50px;
+     margin: 40;
+    /* padding-bottom: 100px; */ 
+}
+/* .fa {  
+    padding: 20px;  
+  text-align: center;  
+    margin: 5px 2px;  
+    font-size: 30px;  
+    width: 50px;  
+  }    */
+
+.fa-facebook {  
+    background: #3B5998;  
+    color: white;  
+  }  
+.fa-twitter {  
+    background: #55ACEE;  
+    color: white;  
+  }  
+ 
+  .fa-linkedin {  
+    background: #007bb5;  
+    color: white;  
+  }  
+  .fa-instagram {  
+    background: #125688;  
+    color: white;  
+  }  
+  .fa-phone{
+      font-size: 30;
+  }
+  .sec-bar{
+
+    padding-left: 400px;
+  }
+  .call-call{
+      padding-left: 200px;
+      
+  }
+  a{
+      text-decoration: none;
+      color: black;
+
+  }
+  .nab{
+      height: 400px;
+      width: 200px;
+      background-color: green;
+      font-size: 100px;
+  }
